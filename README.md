@@ -16,16 +16,16 @@
 ## :man_technologist: About Me :
  - My name is Spasimir Kolev | 21 years old
  - I am from Bulgaria (Stara Zagora)
- - I am currently learning Python (SoftUni) - ([Educational solutions](https://github.com/dobri-ivanov/Coding-SoftUni-CSharp))
+ - I am currently learning Python Web Development (SoftUni) - ([Educational solutions](https://github.com/dobri-ivanov/Coding-SoftUni-CSharp))
  - Here are my projects - ([Repositories](https://github.com/dobri-ivanov?tab=repositories))
  - How to reach me:  Personal Email: decera11@gmail.com
 
 ## 📑Certificates:
- <div>
-   ![certificate1](https://github.com/spasimirkolev/spasimirkolev/assets/122892460/6e8e05d5-e2d3-47a2-8c67-d803dcfb0deb)
-   ![certificate2](https://github.com/spasimirkolev/spasimirkolev/assets/122892460/32bb9e8f-7cba-4bd0-b3a8-da0d5aded35a)
-   ![certificate3]https://github.com/spasimirkolev/spasimirkolev/assets/122892460/b7476a0b-41b1-40dd-b886-96459140270f
-   ![certificate4](https://github.com/spasimirkolev/spasimirkolev/assets/122892460/8d6afceb-eb36-4d2f-b5c0-d74286960f31)
+ <div>  
+  <img src=https://github.com/spasimirkolev/spasimirkolev/assets/122892460/6e8e05d5-e2d3-47a2-8c67-d803dcfb0deb width="24%"/>
+  <img src=https://github.com/spasimirkolev/spasimirkolev/assets/122892460/32bb9e8f-7cba-4bd0-b3a8-da0d5aded35a width="24%"/>
+  <img src=https://github.com/spasimirkolev/spasimirkolev/assets/122892460/b7476a0b-41b1-40dd-b886-96459140270f width="24%"/>
+  <img src=https://github.com/spasimirkolev/spasimirkolev/assets/122892460/8d6afceb-eb36-4d2f-b5c0-d74286960f31 width="24%"/>
 </div>
 
 ## Languages and Tools :
