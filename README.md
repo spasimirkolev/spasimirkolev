@@ -16,8 +16,8 @@
 ## :man_technologist: About Me :
  - My name is Spasimir Kolev | 21 years old
  - I am from Bulgaria (Stara Zagora)
- - I am currently learning Python Web Development (SoftUni) - ([Educational solutions](https://github.com/dobri-ivanov/Coding-SoftUni-CSharp))
- - Here are my projects - ([Repositories](https://github.com/dobri-ivanov?tab=repositories))
+ - I am currently learning Python Web Development (SoftUni) - ([Educational solutions](https://github.com/spasimirkolev/SoftUni-Python-Web-Development))
+ - Here are my projects - ([Repositories](https://github.com/spasimirkolev?tab=repositories))
  - How to reach me:  Personal Email: decera11@gmail.com
 
 ## 📑Certificates:
