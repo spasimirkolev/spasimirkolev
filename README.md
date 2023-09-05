@@ -22,10 +22,10 @@
 
 ## 📑Certificates:
  <div>
-  <img src="https://softuni.bg/certificates/certificates/converttoimage/143387?code=6bd60e73" width="24%"/>
-  <img src="https://softuni.bg/certificates/certificates/converttoimage/167031?code=62a9c65a" width="24%"/>
-  <img src="https://softuni.bg/certificates/certificates/converttoimage/173865?code=9d5d2b41" width="24%"/>
-  <img src="https://softuni.bg/certificates/certificates/converttoimage/180894?code=6f2f7796" width="24%"/>
+   ![certificate1](https://github.com/spasimirkolev/spasimirkolev/assets/122892460/6e8e05d5-e2d3-47a2-8c67-d803dcfb0deb)
+   ![certificate2](https://github.com/spasimirkolev/spasimirkolev/assets/122892460/32bb9e8f-7cba-4bd0-b3a8-da0d5aded35a)
+   ![certificate3]https://github.com/spasimirkolev/spasimirkolev/assets/122892460/b7476a0b-41b1-40dd-b886-96459140270f
+   ![certificate4](https://github.com/spasimirkolev/spasimirkolev/assets/122892460/8d6afceb-eb36-4d2f-b5c0-d74286960f31)
 </div>
 
 ## Languages and Tools :
