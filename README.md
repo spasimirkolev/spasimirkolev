@@ -25,6 +25,7 @@
   <img src="https://softuni.bg/certificates/certificates/converttoimage/143387?code=6bd60e73" width="24%"/>
   <img src="https://softuni.bg/certificates/certificates/converttoimage/167031?code=62a9c65a" width="24%"/>
   <img src="https://softuni.bg/certificates/certificates/converttoimage/173865?code=9d5d2b41" width="24%"/>
+  <img src="https://softuni.bg/certificates/certificates/converttoimage/180894?code=6f2f7796" width="24%"/>
 </div>
 
 ## Languages and Tools :
