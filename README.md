@@ -26,6 +26,7 @@
   <img src=https://github.com/spasimirkolev/spasimirkolev/assets/122892460/32bb9e8f-7cba-4bd0-b3a8-da0d5aded35a width="24%"/>
   <img src=https://github.com/spasimirkolev/spasimirkolev/assets/122892460/b7476a0b-41b1-40dd-b886-96459140270f width="24%"/>
   <img src=https://github.com/spasimirkolev/spasimirkolev/assets/122892460/8d6afceb-eb36-4d2f-b5c0-d74286960f31 width="24%"/>
+  <img src=https://softuni.bg/certificates/certificates/converttoimage/186062?code=37078938 width="24%"/>
 </div>
 
 ## Languages and Tools :
